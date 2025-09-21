@@ -1,0 +1,15 @@
+.footer{
+    text-align: center;
+    background-color: rgb(153,153,0.1);
+}
+.footer-contenr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.footer a{
+    text-decoration: underline;
+    text-decoration-style:dashed ;
+
+}
